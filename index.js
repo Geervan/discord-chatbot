@@ -13,3 +13,6 @@ client.on("message", async message => {
           chatbot.getReply(content).then(r => message.channel.send(r));
             });
 client.login(process.env.token);
+
+
+//Hope u enjoy with this bot :)
